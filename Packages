@@ -36,3 +36,14 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
+
+Package: com.example.activator
+Version: 1.9.13
+Architecture: iphoneos-arm
+Maintainer: iddu0 
+Filename: ./debs/libactivator_1.9.13~rc6_iphoneos-arm.deb
+Size: 929288
+MD5sum: abcdef1234567890abcdef1234567890
+SHA1: abcdef1234567890abcdef1234567890abcdef12
+SHA256: abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890
+Description: Activator is a powerful gesture and button management system for jailbroken iOS devices.
