@@ -1,12 +1,12 @@
-Package: com.supermamon.newpackage
+Package: com.iddu0.aircrackng
 Version: 2.0.0-1
 Section: Tweaks
 Package: aircrack-ng
 Version: 1.0-1
 Architecture: iphoneos-arm
-Maintainer: Starwarsfan2099 <Starwarsfan2099@gmail.com>
+Maintainer: iddu0 
 Depends: openssl, sqlite3-lib, libtool, autoconf
-Filename: ./_site/debs/aircrack-ng_1.0-1_iphoneos-arm.deb
+Filename: /debs/aircrack-ng_1.0-1_iphoneos-arm.deb
 Size: 988438
 MD5sum: a134ce8a690461395e205a650a482658
 SHA1: 607b670adafacef0fcf725bd9e461e502ab0825f
@@ -18,29 +18,3 @@ Description: Aircrack for iPhone (no monitor mode)
 Tag: role::hacker
 Author: tdotreppe <tdotreppe@aircrack-ng.org>
 Name: Aircrack-ng
-
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
