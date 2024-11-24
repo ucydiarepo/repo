@@ -19,6 +19,7 @@ Tag: role::hacker
 Author: tdotreppe <tdotreppe@aircrack-ng.org>
 Name: Aircrack-ng
 
+<<<<<<< Updated upstream
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
@@ -44,3 +45,44 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+=======
+Package: com.iddu0.appsyncunified
+Version: 1.0
+Section: Tweaks
+Package: appsync-unified
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iddu0 
+Depends: 
+Filename: /debs/nodelete-ai.akemi.appsyncunified.deb
+Size: 58440
+MD5sum: a134ce8a690461395e205a650a482658
+SHA1: 607b670adafacef0fcf725bd9e461e502ab0825f
+SHA256: ede20a10ab87995dae9a09e6a5b00b373d5407ba2c39abc8f5b8a49463b74e1a
+Section: Tweaks
+Homepage: https://github.com/akemin-dayo/AppSync
+Description: Appsync Unified for iPhone & iPad
+Tag: appsync
+Author: Karen/あけみ
+Name: AppSync-Unified
+
+Package: com.iddu0.appsyncios4
+Version: 1.0
+Section: Tweaks
+Package: appsync-ios4
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iddu0 
+Depends: 
+Filename: /debs/net.angelxwind.appsync40plus.deb
+Size: 9202
+MD5sum: a134ce8a690461395e205a650a482658
+SHA1: 607b670adafacef0fcf725bd9e461e502ab0825f
+SHA256: ede20a10ab87995dae9a09e6a5b00b373d5407ba2c39abc8f5b8a49463b74e1a
+Section: Tweaks
+Homepage: https://github.com/akemin-dayo/AppSync
+Description: Appsync for iOS 4
+Tag: appsync ios4
+Author: Karen/あけみ
+Name: AppSync-iOS-4
+>>>>>>> Stashed changes
